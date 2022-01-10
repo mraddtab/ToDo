@@ -6,14 +6,10 @@ It will eventually have a login and registration feature which will be implement
 ===
 Features
 ===
-To Do:
 - Registration
 - User authentication & verification
 - Flashcards
 - Calender
 - Daily To Do List
 - Study/Break Timer
-- Home Page HTML & CSS
-Completed:
-- Log In and Registration HTML & CSS 
 
