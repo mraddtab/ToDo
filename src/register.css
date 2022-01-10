@@ -70,15 +70,7 @@ body{
     font-size: 250%;
     margin-bottom: 40px;
 }
-#btn-login{
-    background-color: #623cea;
-    color: white;
-    text-align: center;
-    width: 100%;
-    align-self: center;
-    margin-top: 15px;
-    font-weight: bold;
-}
+
 input{
     margin: 15px 0%;
 }
@@ -109,12 +101,18 @@ input{
     margin: 15px 0%;
 }
 #btn-register{
-    background-color: white;
-    color: #623cea;
-    width: 50%;
+    background-color: #623cea;
+    color: white;
+    text-align: center;
+    width: 100%;
     align-self: center;
-    margin-top: 25px;
+    margin-top: 15px;
+    margin-bottom: 5px;
     font-weight: bold;
+}
+#btn-register:hover{
+    box-shadow: 10px 5px 5px gray;
+    transform: translateY(-1px);
 }
 img{
     position: absolute;
