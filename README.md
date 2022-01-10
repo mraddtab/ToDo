@@ -10,6 +10,7 @@ Features
 - User authentication & verification
 - Flashcards
 - Calender
+- Reminder Alerts
 - Daily To Do List
 - Study/Break Timer
 
