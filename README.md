@@ -1,6 +1,6 @@
-====
+===
 About
-====
+===
 This web application is designed to improve productivity for users, and is catered for students. This program is written using HTML, CSS, and JavaScript. 
 It will eventually have a login and registration feature which will be implementedw ith MongoDB and NodeJS.
 ===
